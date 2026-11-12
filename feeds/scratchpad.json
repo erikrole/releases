@@ -1,5 +1,19 @@
 [
   {
+    "tag_name": "scratchpad-v1.6.4",
+    "body": "## Updates while Scratchpad is open\n\n- **Find updates sooner.** Scratchpad checks while it runs and after your Mac wakes or reconnects.\n- **See when an update is ready.** The menu-bar icon marks an available update, and its menu shows when you can restart.\n- **Install when you quit.** Turn on Install Updates on Quit in the Scratchpad menu to apply a verified update on your next safe quit.\n",
+    "published_at": "2026-11-12T03:46:47Z",
+    "html_url": "https://github.com/erikrole/releases/releases/tag/scratchpad-v1.6.4",
+    "minimum_macos": "27.0",
+    "assets": [
+      {
+        "name": "Scratchpad.zip",
+        "browser_download_url": "https://github.com/erikrole/releases/releases/download/scratchpad-v1.6.4/Scratchpad.zip",
+        "digest": "sha256:38d6f72c269ee3cc9a12ee7242402abaecac46d07e66ac7567f94ed4d32d93fb"
+      }
+    ]
+  },
+  {
     "tag_name": "scratchpad-v1.6.3",
     "body": "- Quieter updates: a small pill replaces the update splash. It shows \"Updating\", then \"Restart to update\"; after an update a \"What's new\" pill lists what changed.\n- Paste links with titles, or paste a list as separate items. Dash variants and colon headers are cleaned up when pasting lists.\n- Optional weekly auto-clear of completed items (off by default), and a dot on the menu-bar icon when an update is available.\n",
     "published_at": "2026-11-06T18:02:42Z",
