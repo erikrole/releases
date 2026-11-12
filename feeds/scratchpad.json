@@ -1,0 +1,30 @@
+[
+  {
+    "tag_name": "scratchpad-v1.6.3",
+    "body": "- Quieter updates: a small pill replaces the update splash. It shows \"Updating\", then \"Restart to update\"; after an update a \"What's new\" pill lists what changed.\n- Paste links with titles, or paste a list as separate items. Dash variants and colon headers are cleaned up when pasting lists.\n- Optional weekly auto-clear of completed items (off by default), and a dot on the menu-bar icon when an update is available.\n",
+    "published_at": "2026-11-06T18:02:42Z",
+    "html_url": "https://github.com/erikrole/releases/releases/tag/scratchpad-v1.6.3",
+    "minimum_macos": "27.0",
+    "assets": [
+      {
+        "name": "Scratchpad.zip",
+        "browser_download_url": "https://github.com/erikrole/releases/releases/download/scratchpad-v1.6.3/Scratchpad.zip",
+        "digest": "sha256:cae538d52211018d6392a792db824c9aad675440dc34cae9a15b888abdf564da"
+      }
+    ]
+  },
+  {
+    "tag_name": "scratchpad-v1.6.1",
+    "body": "## Quieter list\n\n- **Dashed circle for new items.** The new-item row is a simple dashed circle. The hint text only shows when the list is empty.\n- **Gentler check-off.** A checked item shows its check and dims for a moment before it moves to Completed.\n",
+    "published_at": "2026-10-29T16:59:02Z",
+    "html_url": "https://github.com/erikrole/releases/releases/tag/scratchpad-v1.6.1",
+    "minimum_macos": "27.0",
+    "assets": [
+      {
+        "name": "Scratchpad.zip",
+        "browser_download_url": "https://github.com/erikrole/releases/releases/download/scratchpad-v1.6.1/Scratchpad.zip",
+        "digest": "sha256:19c7ea32a0f1109a22d5e7eab681cd7ec895f70369ae68320c3dd27e97795e32"
+      }
+    ]
+  }
+]
